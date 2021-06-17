@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-17",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-17T10:30:40-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-06-17-hello-world-this-is-murrays-very-first-blog-post/",
+    "title": "Hello World, this is Murray's very first blog post!",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-17",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-17T10:41:48-07:00",
+    "input_file": "hello-world-this-is-murrays-very-first-blog-post.knit.md"
+  },
+  {
+    "path": "posts/2021-06-17-murrays-second-blog-post/",
+    "title": "Murray's second blog post!",
+    "description": "This is Murray's second post.",
+    "author": [
+      {
+        "name": "Will Murray",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-06-17",
+    "categories": [],
+    "contents": "\r\nThis post is almost TOO profound for the interwebs. I want to use this page eventually for announcements to CSULB Math/Stat students.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-17T10:54:18-07:00",
+    "input_file": "murrays-second-blog-post.knit.md"
+  }
+]
